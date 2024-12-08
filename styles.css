@@ -1,0 +1,25 @@
+body {
+    background-color: darkgray;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#header {
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+#play {
+    font-size: 40px;
+}
